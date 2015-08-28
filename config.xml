@@ -21,6 +21,7 @@
 		<preference name="fullscreen" value="true" />
 		<preference name="EnableViewportScale" value="true" />
 		<preference name="KeepRunning" value="false"/>
+		<preference name="android-minSdkVersion" value="14" />
 		
 		<icon src="icon.png" />
 		<gap:splash src="splash.png" />
