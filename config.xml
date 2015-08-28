@@ -23,7 +23,7 @@
 	
 		<icon src="icon.png" />
 		<gap:splash src="splash.png" />
-
+		<gap:platform name="android" />
 
 
 
